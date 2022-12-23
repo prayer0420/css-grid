@@ -4,7 +4,7 @@ css - grid 연습 입니다
 
 ### 첫번째:
 <p>
-<img wdith="300px" height="300px" src="https://user-images.githubusercontent.com/111720411/209332644-fb221496-54e4-4b88-83b0-ae469de4fba4.png">
+<img wdith="600px" height="300px" src="https://user-images.githubusercontent.com/111720411/209332644-fb221496-54e4-4b88-83b0-ae469de4fba4.png">
 </p>
 
 ### 두번째:
